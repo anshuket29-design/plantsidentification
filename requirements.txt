@@ -1,0 +1,7 @@
+streamlit
+requests
+googlesearch-python
+Pillow
+transformers
+groq
+torch
